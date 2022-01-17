@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>New fotobox application!</Text>
+      <Text>Now this is something different!</Text>
       <StatusBar style="auto" />
     </View>
   );
