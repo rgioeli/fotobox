@@ -6,3 +6,5 @@ const divide = (num, num2) => num + num2;
 
 const subtract = (num, num2) => num - num2;
 
+const multiply = (num, num2) => num * num2;
+
